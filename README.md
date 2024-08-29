@@ -17,6 +17,8 @@
 
 ## Canlı Demo
 
+https://jocular-malabi-deb140.netlify.app
+
 ## Screen Gif
 
 <img src="screen.gif" />
